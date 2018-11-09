@@ -1,0 +1,17 @@
+{
+  "name": "jsontans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^2.1.0",
+    "google-translate-api": "^2.3.0",
+    "json-format": "^1.0.1",
+    "puppeteer": "^1.10.0"
+  }
+}
